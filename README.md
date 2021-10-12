@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hello World,
+# Hello World 👋
 
 <a href="https://linkedin.com/in/lahiru-amarathunge">
   <img align="left" alt="Lahiru - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -14,7 +12,7 @@
 <br />
 <br />
 
-I'm an Engineer by profession and a Teacher by passion.  
+I'm a Software Engineer by profession and a Teacher by passion.  
 
 Technologies:
 - Javascript, React, React-Native
@@ -22,7 +20,7 @@ Technologies:
 - mongoDB, mySQL
 
 Also interested in:
-- Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress  
+- Digital Marketing, SEO, Wordpress  
 
 Cheers,  
 Lahiru Amaratunge
