@@ -16,8 +16,7 @@ I'm a Software Engineer by profession and a Teacher by passion.
 
 Technologies:
 - Javascript, React, React-Native
-- Node, AWS
-- mongoDB, mySQL
+- Node, mongoDB, mySQL, AWS
 
 Also interested in:
 - Digital Marketing, SEO, Wordpress  
