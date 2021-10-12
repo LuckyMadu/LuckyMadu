@@ -15,11 +15,11 @@
 I'm a Software Engineer by profession and a Teacher by passion.  
 
 Technologies:
-- Javascript, React, React-Native
+- Javascript, React, React-Native, Python
 - Node, mongoDB, mySQL, AWS
 
 Also interested in:
-- Digital Marketing, SEO, Wordpress  
+- Big Data, DevOps
 
 Cheers,  
 Lahiru Amaratunge
