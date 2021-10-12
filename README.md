@@ -17,7 +17,7 @@
 I'm an Engineer by profession and a Teacher by passion.  
 
 Technologies:
-- Javascript, React, React-Native, Vue
+- Javascript, React, React-Native
 - Node, AWS
 - mongoDB, mySQL
 
