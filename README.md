@@ -22,5 +22,7 @@ Technologies:
 - Javascript, React, React-Native, Python
 - Node, mongoDB, mySQL, AWS
 
+</br>
+
 Cheers,  
 Lahiru Amaratunge
