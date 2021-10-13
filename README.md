@@ -15,7 +15,8 @@
 
 ### About Me 🚀
 🎓 I'm a Software Engineer by profession </br>
-👨‍💻 I am passionate about Big Data, Data Science, Machine Learning and DevOps.  </br>
+👨‍💻 I am passionate about Big Data, Data Science, Machine Learning and DevOps.  
+</br>
 
 Technologies:
 - Javascript, React, React-Native, Python
