@@ -25,4 +25,4 @@ Technologies:
 </br>
 
 Cheers,  
-Lahiru Amaratunge
+Lahiru
