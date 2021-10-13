@@ -10,18 +10,16 @@
 <a href="https://www.facebook.com/lahiru.amarathunge">
   <img align="left" alt="Lahiru - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=LuckyMadu.LuckyMadu)
 <br />
 <br />
 
-I'm a Software Engineer by profession and a Teacher by passion.  
+### About Me 🚀
+🎓 I'm a Software Engineer by profession </br>
+👨‍💻 I am passionate about Big Data, Data Science, Machine Learning and DevOps.
 
 Technologies:
 - Javascript, React, React-Native, Python
 - Node, mongoDB, mySQL, AWS
-
-Also interested in:
-- Big Data, DevOps
 
 Cheers,  
 Lahiru Amaratunge
