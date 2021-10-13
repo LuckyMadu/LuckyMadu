@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/lahiru.amarathunge">
   <img align="left" alt="Lahiru - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=LuckyMadu)
+![](https://visitor-badge.glitch.me/badge?page_id=LuckyMadu.LuckyMadu)
 <br />
 <br />
 
