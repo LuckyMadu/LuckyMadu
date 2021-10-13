@@ -1,4 +1,4 @@
-# Hello World 👋
+# Hello World <img src="https://github.com/LuckyMadu/LuckyMadu/blob/main/hi.gif" height="55px" width="55px">
 
 <a href="https://linkedin.com/in/lahiru-amarathunge">
   <img align="left" alt="Lahiru - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
