@@ -1,4 +1,5 @@
-# Hello World <img src="https://github.com/LuckyMadu/LuckyMadu/blob/main/hi.gif" height="55px" width="55px">
+<h1 align="center">Hi <img src="https://github.com/LuckyMadu/LuckyMadu/blob/main/hi.gif" height="55px" width="55px">, I'm Lahiru Amaratunge</h1>
+<h3 align="center">Full-Stack Engineer and Open-Source Contributor 😁 </h3>
 
 <a href="https://linkedin.com/in/lahiru-amarathunge">
   <img align="left" alt="Lahiru - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
