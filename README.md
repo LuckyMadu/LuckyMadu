@@ -19,7 +19,7 @@
 </br>
 
 Technologies:
-- Javascript, React, React-Native, Python
+- React, React-Native, Javascript, Typescript, Python
 - Node, mongoDB, mySQL, AWS
 
 </br>
