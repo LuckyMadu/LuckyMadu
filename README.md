@@ -13,6 +13,12 @@
 <br />
 <br />
 
+
+### About Me 🚀
+🎓 I'm a Software Engineer by profession </br>
+👨‍💻 I am passionate about Big Data, Data Science, Machine Learning and DevOps.  
+</br>
+
 <p>Tech Stack</p>
 <blockquote>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -25,15 +31,6 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=%23FF9900"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%23011e2b.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248"/>
 </blockquote>
-
-### About Me 🚀
-🎓 I'm a Software Engineer by profession </br>
-👨‍💻 I am passionate about Big Data, Data Science, Machine Learning and DevOps.  
-</br>
-
-Technologies:
-- React, React-Native, Javascript, Typescript, Python
-- Node, mongoDB, mySQL, AWS
 
 </br>
 
