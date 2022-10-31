@@ -7,9 +7,9 @@
 <a href="https://stackoverflow.com/users/7872227/lahiru-amarathunge">
   <img align="left" alt="Lahiru - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/>
 </a>
-<a href="https://www.facebook.com/lahiru.amarathunge">
+<!-- <a href="https://www.facebook.com/lahiru.amarathunge">
   <img align="left" alt="Lahiru - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
-</a>
+</a> -->
 <br />
 <br />
 
