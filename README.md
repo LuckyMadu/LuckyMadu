@@ -35,4 +35,4 @@
 </br>
 
 
-[![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckyMadu)](https://github.com/LuckyMadu/github-readme-stats)
+<!-- [![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckyMadu)](https://github.com/LuckyMadu/github-readme-stats) -->
