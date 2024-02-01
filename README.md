@@ -15,7 +15,7 @@
 
 
 ### About Me 🚀
-🎓 I'm a Software Engineer by profession. </br>
+🎓 I'm a Software Engineer by profession </br>
 👨‍💻 I'm passionate about Big Data, Data Science, Machine Learning and DevOps
 </br>
 
